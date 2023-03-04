@@ -1,0 +1,63 @@
+body{
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 1000px 1fr;
+
+}
+@media (max-width:869px){
+  body{
+    grid-template-columns: 1fr 600px 1fr;
+  }
+}
+
+
+@media (min-width:870px){
+  body{
+    grid-template-columns: 1fr 1000px 1fr ;
+  }
+}
+
+h1{
+  font-family: Arial;
+
+}
+
+h2{
+  font-family: Arial;
+  color: rgb(87, 95, 109);
+}
+hr{
+  display: block;
+  border: 3px solid rgb(190, 194, 203);
+}
+hr.nome{
+  display: block;
+  border: 2px solid rgb(0, 0, 0);
+}
+
+p{
+  margin: 4px;
+  font-family: Arial;
+  color: rgb(65, 71, 81);
+}
+
+ul{
+  margin: 4px;
+  font-family: Arial;
+  color: rgb(65, 71, 81);
+}
+
+
+
+.pagina{
+  margin-right: 100px;
+  margin-left: 10px;
+}
+
+.subtitulo{
+  color: rgb(43, 47, 53);
+  font-weight: 700;
+
+}
+
+
