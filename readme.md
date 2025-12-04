@@ -3,13 +3,13 @@
 
 A resume built with pure HTML and CSS. This project was developed as part of the **HTML5 for Beginners** course, aimed at building a foundation in front-end basics.
 
-(**Page Link:**)[(https://fabiohtoledo.github.io/curso-curriculo/)]
+[**Page Link**](https://fabiohtoledo.github.io/curso-curriculo/)
 
 ## 📋 About the Project
 
 This project is a static online resume, developed as a practical exercise from the **"HTML5 for Beginners"** course. The main objective was to apply the fundamentals of HTML5 markup language and basic CSS styling concepts to structure and present professional information in a semantic and visually organized way. The course has a practical focus, teaching everything from basic syntax to project publication on the web.
 
-(**Course Link:**)[https://www.udemy.com/course/aprendahtml/?couponCode=UDEAFFHP22025]
+[**Course Link**](https://www.udemy.com/course/aprendahtml/?couponCode=UDEAFFHP22025)
 
 ## 🚀 Features
 
@@ -48,13 +48,13 @@ This project consolidated the fundamental knowledge covered in the course, inclu
 
 Um currículo construído com HTML e CSS puros. Este projeto foi desenvolvido como parte do curso **HTML5 para quem não sabe nada de HTML5**, com o objetivo de criar fundação sobre o básico do front-end.
 
-(**Link da página:**)[(https://fabiohtoledo.github.io/curso-curriculo/)]
+[**Link da página**](https://fabiohtoledo.github.io/curso-curriculo/)
 
 ## 📋 Sobre o Projeto
 
 Este projeto é um currículo online estático, desenvolvido como exercício prático do curso **"HTML5 para quem não sabe nada de HTML5"**. O objetivo principal foi aplicar os fundamentos da linguagem de marcação HTML5 e os conceitos básicos de estilização CSS para estruturar e apresentar informações profissionais de forma semântica e visualmente organizada. O curso tem foco prático, ensinando desde a sintaxe básica até a publicação do projeto na web.
 
-(**Link do curso:**)[(https://fabiohtoledo.github.io/curso-curriculo/)]
+[**Link do curso**](https://fabiohtoledo.github.io/curso-curriculo/)
 
 ## 🚀 Funcionalidades
 
